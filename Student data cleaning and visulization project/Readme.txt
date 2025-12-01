@@ -61,9 +61,10 @@ Matplotlib
 
 ▶ How to Run
 pip install pandas numpy matplotlib
-python code/data_cleaning.py
-python code/data_visualization.py
+python code/cleaning.py
+python code/data visualization.py
 
 📧 Contact
+
 
 For collaboration: 00111abdullah00111.com
